@@ -5,6 +5,7 @@
 Instructions on how to install the project, including any dependencies.
 
 - npm install
+- npm run start
 - API can be accessed in localhost:3001
 
 
